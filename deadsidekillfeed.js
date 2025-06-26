@@ -28,23 +28,23 @@ process.on('unhandledRejection', (reason, promise) => {
 // === SERVER CONFIGURATIONS ===
 const serverConfigs = [
   {
-    host: '79.127.219.102',
-    port: '8822',
-    username: 'codyw',
-    password: 'ucK8qv2L72',
-    remoteDir: '/79.127.219.102_7180/actual1/deathlogs/world_0/',
-    killWebhook: 'https://discord.com/api/webhooks/1364366180684660857/AFUBwwe4uW3mSgAwBou-oAAp2eyNfr6ogfvydxAtHFlTnRgDVsNj42b5-jdDkuMkKUL3',
-    suicideWebhook: 'https://discord.com/api/webhooks/1364366383512555611/E_fnThDF_V36Zq_V9jtowk6wAzHTikvUhIgDyXSSEdz4OGCVEtCDU5jMPlsJSaKfzaT7',
-    leaderboardWebhook: 'https://discord.com/api/webhooks/1364366606691602462/xeEePqgLlwrk7J4zxgXHgVk9KY_h_YKhlu465WRUTm_JYZPd1QVegbFMv_BQThoygyfO',
-    dailyLeaderboardWebhook: 'https://discord.com/api/webhooks/1364366606691602462/xeEePqgLlwrk7J4zxgXHgVk9KY_h_YKhlu465WRUTm_JYZPd1QVegbFMv_BQThoygyfO',
-    weeklyLeaderboardWebhook: 'https://discord.com/api/webhooks/1364366606691602462/xeEePqgLlwrk7J4zxgXHgVk9KY_h_YKhlu465WRUTm_JYZPd1QVegbFMv_BQThoygyfO',
-    monthlyLeaderboardWebhook: 'https://discord.com/api/webhooks/1364366606691602462/xeEePqgLlwrk7J4zxgXHgVk9KY_h_YKhlu465WRUTm_JYZPd1QVegbFMv_BQThoygyfO',
-    allTimeLeaderboardWebhook: 'https://discord.com/api/webhooks/1364366606691602462/xeEePqgLlwrk7J4zxgXHgVk9KY_h_YKhlu465WRUTm_JYZPd1QVegbFMv_BQThoygyfO',
-    longshotWebhook: 'https://discord.com/api/webhooks/1364366606691602462/xeEePqgLlwrk7J4zxgXHgVk9KY_h_YKhlu465WRUTm_JYZPd1QVegbFMv_BQThoygyfO',
-    allPlayersStatsWebhook: 'https://discord.com/api/webhooks/1365946097771614289/tI6fqFZUdbFYW06zaiiwOEqu04Qk6xD0iUKkUN80Gho_5Sfn_43W2ChBG1YbVSk0LuwN',
+    host: ,
+    port: ,
+    username: ,
+    password: ,
+    remoteDir: ,
+    killWebhook: ,
+    suicideWebhook: ,
+    leaderboardWebhook: ,
+    dailyLeaderboardWebhook: ,
+    weeklyLeaderboardWebhook: ,
+    monthlyLeaderboardWebhook: ,
+    allTimeLeaderboardWebhook: ,
+    longshotWebhook: ,
+    allPlayersStatsWebhook: ,
     serverName: "3X US",
-    color: "#3366DD", // Blue color for embeds
-    iconUrl: "https://i.imgur.com/6guD1s3.png"
+    color: , 
+    iconUrl: 
   }
 ];
 
